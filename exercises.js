@@ -2,7 +2,7 @@
 
 const mltDimArray = [[[1, 2, 3, [2, 3]], [1, 2, 3], [3, 4], [1, 2, 3], 7]];
 
-// -- sum of mulidemensional array
+// -- sum of multidimensional array
 
 const sumArray = (array) => {
   return array.reduce((sum, item) => {
