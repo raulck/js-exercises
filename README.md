@@ -1,2 +1,23 @@
-# js-exercises
-JS exercises
+# JavaScript Exercises
+
+A collection of simple JavaScript exercises to help practice and improve your coding skills.
+
+## Exercises Included:
+
+1. **Find the Longest Word**: Find the longest word in a given sentence.
+2. **Palindrome Checker**: Check if a word or phrase is a palindrome.
+3. **Remove Duplicates**: Remove duplicate values from an array.
+4. **Count Consecutive 1s**: Find the maximum number of consecutive 1s in an array.
+5. **Factorial Calculation**: Calculate the factorial of a given number.
+6. **Anagram Checker**: Check if one string is an anagram of another.
+7. ...
+8. ...
+9. ...
+10. ...
+11. ...
+12. ...
+13. ...
+
+## How to Use:
+
+git clone https://github.com/raulck/js-exercises.git
